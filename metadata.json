@@ -1,0 +1,6 @@
+{
+  "name": "LMS Penilaian Technical Skill",
+  "description": "Sistem Penilaian Technical & Presentation Skill LMS - Gacoan Academy. Memfasilitasi penjadwalan, upload evidence, kolaborasi penilaian real-time RM & Assessor, monitoring, dan export data.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
